@@ -1,3 +1,4 @@
+import sys
 from stats import get_word_count
 from stats import get_char_count
 from stats import get_sorted_char_list
